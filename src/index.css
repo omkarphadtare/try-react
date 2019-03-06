@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  background-color: wheat;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+.header{
+  font-style:oblique;
+  color: tomato;
+}
+Table{
+  text-align: center;
+  padding: 10px;
+  border: 1px solid grey;
+}
+label{
+  width: 100px;
+  margin: 20px;
+  color:tomato;
+}
+button{
+  margin-top: 20px;
+  width: 90px;
+  height: 25px;
+  background-color:whitesmoke;
+  border:1px solid black;
+  color: black;
+  cursor: pointer;
+  border-radius: 10px;
+}
+button:hover{
+  opacity: 0.6;
+}
+Table button{
+  margin-top: 8px;
+  width: 90px;
+  height: 25px;
+  background-color:whitesmoke;
+  border:1px solid black;
+  color: black;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.hline{
+  height: 1px;
+  background-color: black;
+}
+input:hover{
+  border-color: tomato;
+}
+.add{
+  margin: 30px;
+}
+.tab{
+  padding-left: 28%;
+}
