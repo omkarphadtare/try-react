@@ -1,13 +1,13 @@
 {
-  "main.css": "/TD-React-Challenge-Test-1/static/css/main.928c379d.chunk.css",
-  "main.js": "/TD-React-Challenge-Test-1/static/js/main.b11f0677.chunk.js",
-  "main.js.map": "/TD-React-Challenge-Test-1/static/js/main.b11f0677.chunk.js.map",
-  "runtime~main.js": "/TD-React-Challenge-Test-1/static/js/runtime~main.04c3a07e.js",
-  "runtime~main.js.map": "/TD-React-Challenge-Test-1/static/js/runtime~main.04c3a07e.js.map",
-  "static/js/2.14bf863f.chunk.js": "/TD-React-Challenge-Test-1/static/js/2.14bf863f.chunk.js",
-  "static/js/2.14bf863f.chunk.js.map": "/TD-React-Challenge-Test-1/static/js/2.14bf863f.chunk.js.map",
-  "index.html": "/TD-React-Challenge-Test-1/index.html",
-  "precache-manifest.aab2090c9f1cbdd5962ffddff4470a9c.js": "/TD-React-Challenge-Test-1/precache-manifest.aab2090c9f1cbdd5962ffddff4470a9c.js",
-  "service-worker.js": "/TD-React-Challenge-Test-1/service-worker.js",
-  "static/css/main.928c379d.chunk.css.map": "/TD-React-Challenge-Test-1/static/css/main.928c379d.chunk.css.map"
+  "main.css": "/try-react/static/css/main.928c379d.chunk.css",
+  "main.js": "/try-react/static/js/main.b11f0677.chunk.js",
+  "main.js.map": "/try-react/static/js/main.b11f0677.chunk.js.map",
+  "runtime~main.js": "/try-react/static/js/runtime~main.9a81ac38.js",
+  "runtime~main.js.map": "/try-react/static/js/runtime~main.9a81ac38.js.map",
+  "static/js/2.14bf863f.chunk.js": "/try-react/static/js/2.14bf863f.chunk.js",
+  "static/js/2.14bf863f.chunk.js.map": "/try-react/static/js/2.14bf863f.chunk.js.map",
+  "index.html": "/try-react/index.html",
+  "precache-manifest.9c82b074109ada047d0234a4e999cc05.js": "/try-react/precache-manifest.9c82b074109ada047d0234a4e999cc05.js",
+  "service-worker.js": "/try-react/service-worker.js",
+  "static/css/main.928c379d.chunk.css.map": "/try-react/static/css/main.928c379d.chunk.css.map"
 }
